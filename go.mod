@@ -1,4 +1,4 @@
-module github.com/kubeflow/mpi-operator
+module github.com/lukwil/mpi-operator
 
 go 1.13
 
