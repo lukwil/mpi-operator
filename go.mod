@@ -12,12 +12,12 @@ require (
 	github.com/prometheus/client_golang v0.9.2
 	github.com/stretchr/testify v1.3.0
 	k8s.io/api v0.15.10
-	k8s.io/apimachinery v0.16.9-beta.0
+	k8s.io/apimachinery v0.15.10
 	k8s.io/apiserver v0.15.10
-	k8s.io/client-go v10.0.0+incompatible
+	k8s.io/client-go v0.15.10
 	k8s.io/klog v1.0.0
 	k8s.io/kube-openapi v0.0.0-20190816220812-743ec37842bf
-	k8s.io/sample-controller v0.0.0-00010101000000-000000000000
+	k8s.io/sample-controller v0.15.10
 	volcano.sh/volcano v0.4.0
 )
 
