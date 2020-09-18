@@ -18,7 +18,7 @@ require (
 	k8s.io/klog v1.0.0
 	k8s.io/kube-openapi v0.0.0-20190816220812-743ec37842bf
 	k8s.io/sample-controller v0.15.10
-	volcano.sh/volcano v0.4.2
+	volcano.sh/volcano v1.0.1
 )
 
 replace (
